@@ -1,6 +1,11 @@
 ([
 (
 source: Cargo(()),
+name: "cargo-binutils",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-fmt",
 flags: [],
 ),
