@@ -6,6 +6,21 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "racer",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "rls",
+flags: [],
+),
+(
+source: Cargo(()),
+name: "rust-clippy",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "rustfmt",
 flags: [],
 ),
