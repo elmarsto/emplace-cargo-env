@@ -1,6 +1,11 @@
 ([
 (
 source: Cargo(()),
+name: "cargo-fmt",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "rustfmt",
 flags: [],
 ),
