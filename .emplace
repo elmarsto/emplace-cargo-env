@@ -1,0 +1,7 @@
+([
+(
+source: Cargo(()),
+name: "vocage",
+flags: [],
+),
+])
