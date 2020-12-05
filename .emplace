@@ -21,6 +21,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "gitui",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "procs",
 flags: [],
 ),
