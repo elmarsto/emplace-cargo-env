@@ -49,4 +49,9 @@ source: Cargo(()),
 name: "xsv",
 flags: [],
 ),
+(
+source: Cargo(()),
+name: "zoxide",
+flags: [],
+),
 ])
