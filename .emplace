@@ -11,11 +11,6 @@ flags: [],
 ),
 (
 source: Cargo(()),
-name: "lyriek",
-flags: [],
-),
-(
-source: Cargo(()),
 name: "racer",
 flags: [],
 ),
