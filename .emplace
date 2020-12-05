@@ -11,6 +11,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "lyriek",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "racer",
 flags: [],
 ),
@@ -42,16 +47,6 @@ flags: [],
 (
 source: Cargo(()),
 name: "wasm-nm",
-flags: [],
-),
-(
-source: Cargo(()),
-name: "wasm-objdump",
-flags: [],
-),
-(
-source: Cargo(()),
-name: "wasm-opt",
 flags: [],
 ),
 ])
