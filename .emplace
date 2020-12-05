@@ -16,6 +16,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "diskonaut",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "procs",
 flags: [],
 ),
