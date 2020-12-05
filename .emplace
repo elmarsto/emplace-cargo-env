@@ -44,4 +44,9 @@ source: Cargo(()),
 name: "wasm-nm",
 flags: [],
 ),
+(
+source: Cargo(()),
+name: "xsv",
+flags: [],
+),
 ])
