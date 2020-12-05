@@ -26,6 +26,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "fd",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "fselect",
 flags: [],
 ),
