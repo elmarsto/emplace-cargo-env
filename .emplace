@@ -66,6 +66,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "sd",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "twiggy",
 flags: [],
 ),
