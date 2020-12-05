@@ -21,6 +21,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "fselect",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "gitui",
 flags: [],
 ),
