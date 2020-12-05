@@ -1,6 +1,11 @@
 ([
 (
 source: Cargo(()),
+name: "bandwhich",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-binutils",
 flags: [],
 ),
