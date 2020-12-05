@@ -6,6 +6,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "bat",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "cargo-binutils",
 flags: [],
 ),
