@@ -55,6 +55,11 @@ name: "rls",
 flags: [],
 ),
 (
+source: Npm(()),
+name: "rollup-cli",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "rust-clippy",
 flags: [],
