@@ -1,5 +1,10 @@
 ([
 (
+source: Npm(()),
+name: "@wasm-tool/rollup-plugin-rust",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "bandwhich",
 flags: [],
