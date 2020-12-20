@@ -90,8 +90,18 @@ name: "sd",
 flags: [],
 ),
 (
+source: Npm(()),
+name: "ts-loader",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "twiggy",
+flags: [],
+),
+(
+source: Npm(()),
+name: "typescript",
 flags: [],
 ),
 (
