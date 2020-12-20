@@ -115,6 +115,16 @@ name: "wasm-nm",
 flags: [],
 ),
 (
+source: Npm(()),
+name: "webpack",
+flags: [],
+),
+(
+source: Npm(()),
+name: "webpack-cli",
+flags: [],
+),
+(
 source: Cargo(()),
 name: "xsv",
 flags: [],
