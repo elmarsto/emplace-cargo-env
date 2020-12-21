@@ -56,6 +56,11 @@ flags: [],
 ),
 (
 source: Cargo(()),
+name: "pijul",
+flags: [],
+),
+(
+source: Cargo(()),
 name: "procs",
 flags: [],
 ),
